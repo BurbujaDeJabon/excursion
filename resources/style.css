@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #121212;
+    color: white;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+footer img {
+    margin: 0 auto;
+}
